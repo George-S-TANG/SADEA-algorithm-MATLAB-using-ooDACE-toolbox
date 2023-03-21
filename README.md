@@ -16,7 +16,7 @@ This repository contains:
 - [License](#license)
 
 
-## Install ToolBox in MATLAB
+## Install
 Install ooDACE toolBox in MATLAB. The ooDACE toolBOX is at [here](https://sumowiki.intec.ugent.be/index.php/OoDACE:ooDACE_toolbox).
 
 ## how
