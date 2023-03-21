@@ -10,7 +10,9 @@ This repository contains:
 ## Table of Contents
 
 - [Install](#install)
-- [How to use](#how)
+- [Examples](#example)
+	- [Example 1](#example-1)
+  - [Example 2](#example-2)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,8 +21,15 @@ This repository contains:
 ## Install
 Install ooDACE toolBox in MATLAB. The ooDACE toolBOX is at [here](https://sumowiki.intec.ugent.be/index.php/OoDACE:ooDACE_toolbox).
 
-## how
-Install ooDACE toolBox in MATLAB. The ooDACE toolBOX is at [here](https://sumowiki.intec.ugent.be/index.php/OoDACE:ooDACE_toolbox).
+## Example
+
+To see how the specification has been applied, see the [example-readmes](example-readmes/).
+
+### Example 1
+To see how the specification has been applied, see the [example-readmes](example-readmes/).
+### Example 2
+To see how the specification has been applied, see the [example-readmes](example-readmes/).
+
 
 ## Maintainers & Contributors
 
