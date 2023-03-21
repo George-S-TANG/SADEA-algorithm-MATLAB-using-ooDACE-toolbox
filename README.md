@@ -9,14 +9,14 @@ This repository contains:
 
 ## Table of Contents
 
-- [Before Using SADEA](#before)
+- [Before Using SADEA](#Before Using SADEA)
 - [How to use](#how)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
 
 
-## before
+## Before Using SADEA
 Install ooDACE toolBox in MATLAB. The ooDACE toolBOX is at [here](https://sumowiki.intec.ugent.be/index.php/OoDACE:ooDACE_toolbox).
 
 ## how
