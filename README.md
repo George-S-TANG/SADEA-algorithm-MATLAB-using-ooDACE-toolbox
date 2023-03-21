@@ -5,14 +5,11 @@ This repository uses MATLAB to complete the Surrogate-model assigned differentia
 This repository contains:
 
 1. [SADEA.m](SADEA.m).
-2. [test function](ackley.m): 用[ackley.m](https://www.sfu.ca/%7Essurjano/ackley.html)作为测试函数
+2. [test function](ackley.m): Using the [Ackley function](https://www.sfu.ca/%7Essurjano/ackley.html) as the test function.
 
 ## Table of Contents
 
 - [Install](#install)
-- [Examples](#example)
-	- [Example 1](#example-1)
-  - [Example 2](#example-2)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -20,16 +17,6 @@ This repository contains:
 
 ## Install
 Install ooDACE toolBox in MATLAB. The ooDACE toolBOX is at [here](https://sumowiki.intec.ugent.be/index.php/OoDACE:ooDACE_toolbox).
-
-## Example
-
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
-
-### Example 1
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
-### Example 2
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
-
 
 ## Maintainers & Contributors
 
